@@ -2,7 +2,7 @@
 
 ### Markdown
 
-I've been developing applications since high school, doing a few jobs here and there, leaving school I went straight to the Systems Analysis and Development course here in Brazil, I have the dream of working back-end programming and taking my projects forward.
+I'm a junior programmer, I'm 20 years old, I've been developing applications since high school, doing a few jobs here and there, leaving school I went straight to the Systems Analysis and Development course here in Brazil, I have the dream of working back-end programming and taking my projects forward.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
