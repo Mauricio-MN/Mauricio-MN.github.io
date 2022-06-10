@@ -10,6 +10,10 @@ Made in java, it's not the game itself, but it solves the board quickly using re
 Output: Number of pieces captured, moves made to reach the objective, number of matches and number of moves.
 [Repository](https://github.com/Mauricio-MN/RestaUmJava)
 
+### Launcher-Anger
+Written in vb.net, one of my first projects, it took a lot of work to find, is a launcher that updates files using crc32
+[Repository](https://github.com/Mauricio-MN/Launcher-Anger)
+
 ### Contact
 
 Could you hire me? **mauriciomoraesnantes@gmail.com** let's go!
