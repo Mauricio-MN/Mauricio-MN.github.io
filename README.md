@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Made in java, it's not the game itself, but it solves the board quickly using recursion, having as input: Finish with N pieces, Stop with N pieces to finish, be an endgame centered on the union.
 Output: Number of pieces captured, moves made to reach the objective, number of matches and number of moves.
-[Repository]()
+[Repository](https://github.com/Mauricio-MN/RestaUmJava)
 
 ### Contact
 
