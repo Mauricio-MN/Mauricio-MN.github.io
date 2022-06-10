@@ -34,4 +34,4 @@ Output: Number of pieces captured, moves made to reach the objective, number of 
 
 ### Contact
 
-Could you hire me? [contact](mauriciomoraesnantes@gmail.com) let's go!
+Could you hire me? [contact](http://mauriciomoraesnantes@gmail.com) let's go!
