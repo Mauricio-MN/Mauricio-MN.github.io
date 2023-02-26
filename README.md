@@ -1,8 +1,8 @@
-## Welcome to my Github Page
+## Bem vindo a minha página no GitHub!
 
 ### Opa! Bão?
 
-I'm a junior programmer, I'm 21 years old, I've been developing applications since high school, doing a few jobs here and there, leaving school I went straight to the Systems Analysis and Development course here in Brazil, I have the dream of working back-end programming and taking my projects forward.
+Sou um programador júnior, tenho 21 anos, desenvolvo aplicações desde o ensino médio, ja trabalhei como freelancer, saindo da escola fui direto para o curso de Análise e Desenvolvimento de Sistemas.
 
 ### PPessoas-API
 
