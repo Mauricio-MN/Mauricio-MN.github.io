@@ -11,8 +11,10 @@ Spring-Boot REST API de gerenciamento de pessoas.
 
 ### CHROMADDED-VOIP
 É um projeto VOIP de chat posicional 3D usando protocolo UDP, atualmente em desenvolvimento, escrito em Java e C++.
-[Repository](https://github.com/Mauricio-MN/CHROMADDED-VOIP)
-[Repository](https://github.com/Mauricio-MN/CHROMADDED-VOIP-CLIENT-BASE)
+
+  Servidor: [Repository](https://github.com/Mauricio-MN/CHROMADDED-VOIP)
+
+  Client: [Repository](https://github.com/Mauricio-MN/CHROMADDED-VOIP-CLIENT-BASE)
 
 ### ltStoryTime
 
