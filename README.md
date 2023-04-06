@@ -7,7 +7,7 @@ Sou um programador júnior, tenho 21 anos, desenvolvo aplicações desde o ensin
 ### PPessoas-API
 
 Spring-Boot REST API de gerenciamento de pessoas.
-[Repository](https://github.com/Mauricio-MN/RestaUmJava)
+[Repository](https://github.com/Mauricio-MN/PPessoas-API)
 
 ### CHROMADDED-VOIP
 É um projeto VOIP de chat posicional 3D usando protocolo UDP, atualmente em desenvolvimento, escrito em Java e C++.
