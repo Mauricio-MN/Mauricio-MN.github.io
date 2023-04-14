@@ -38,4 +38,4 @@ Written in vb.net, one of my first projects, it took a lot of work to find, is a
 
 ### Contact
 
-Entre en contato! : **mauriciomoraesnantes@gmail.com** let's go!
+Entre em contato! : **mauriciomoraesnantes@gmail.com** let's go!
